@@ -1,0 +1,105 @@
+.main-body{
+    background-color: lightgray;
+}
+.box-1{
+    margin-left: 15px;
+    display: inline-block;
+    background-color: white;
+    width: 395px;
+    height: 420px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+
+}
+.box-3{
+    margin-left: 15px;
+    display: inline-block;
+    background-color: white;
+    width: 395px;
+    height: 420px;
+    margin-bottom: 20px;
+
+}
+.box-1-content{
+    margin-left: 20px;
+    display: inline-block;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+.box-1-content-2{
+    margin-left: 0px;
+    display: inline-block;
+    vertical-align: top;
+}
+.box-1-content-3{
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.box-1-content-4{
+    margin-left: 0px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 40px;
+}
+.box-1-msg{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.box-1-img-1{
+    display: inline-block;
+    width: 180px;
+}
+.box-1-img-2{
+    display: inline-block;
+    width: 180px;
+}
+.img-1-content{
+    width: 170px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box-1-link{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #007185;
+    margin-left: 20px;
+}
+.box-1-link:hover{
+    text-decoration: underline;
+    color: rgb(180, 4, 4);
+}
+.horizontal-div{
+    background-color: white;
+    height: 300px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 25px;
+}
+.container{
+    display: inline-block;
+}
+.para-1{
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+.para-1-link{
+    font-size: 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+    color: #007185;
+}
+.para-1-link:hover{
+    color: rgb(180, 4, 4);
+    text-decoration: underline;
+}

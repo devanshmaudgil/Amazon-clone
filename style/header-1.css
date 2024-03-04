@@ -1,0 +1,165 @@
+.nav-header{
+    background-color: #0F1111;
+    height: 65px;
+}
+.logo{
+    height: 50px;
+    padding-right: 10px;
+    padding-left: 0px;
+    width: 120px;
+    margin-top: 8px;
+    margin-left: 10px;
+    border-color:transparent;
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+}
+.logo:hover{
+    border-color: white;
+}
+.company-logo{
+    display: inline-block;
+}
+.amazon-logo{
+    display: inline-block;
+}
+.location{
+    display: inline-block;
+}
+.delivery{
+    display: inline-block;
+    vertical-align: center;
+}
+.location-delivery{
+    height: 45px;
+    width: 190px;
+    display: inline-block;
+    margin-left: 0px;
+    
+    padding-bottom: 5px;
+
+    border-color:transparent;
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+}
+.location-delivery:hover{
+    border-color: white;
+}
+.search-element{
+    display: inline-flex;
+    vertical-align:top;
+    width: 490px;
+    height: 40px;
+    background-color: #ffbc6c;
+    border-radius: 5px;
+    margin-top: 12px;
+    margin-left: 20px;
+}
+.search-select{
+    padding-left: 3px;
+    padding-right: 5px;
+    background-color: #e6e6e6;
+    width: 45px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+}
+.search{
+    border:none;
+    width: 380px;
+    font-size: 15px;
+    font-family: Arial;
+    padding-left: 15px;
+    outline: none;
+}
+.search-icon{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 22px;
+}
+.country-region{
+    display: inline-block;
+    height: 30px;
+    text-align: center;
+}
+.region{
+    display: inline-block;
+    border-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.region:hover{
+    border-color: white;
+    border-width: 1px;
+}
+.country-logo{
+    width: 70px;
+    height: 35px;
+    margin-left: 18px;
+    margin-bottom: 5px;
+}
+.signin{
+    display: inline-block;
+    height: 30px;
+    text-align: center;
+}
+.signin-container{
+    display: inline-block;
+    border-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.signin-container:hover{
+    border-color: white;
+    border-width: 1px;
+}
+.signin-logo{
+    width: 110px;
+    height: 40px;
+    margin-left: 18px;
+    margin-bottom: 5px;
+}
+.returns{
+    display: inline-block;
+}
+.returns-container{
+    margin-left: 10px;
+    display: inline-block;
+    border-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 0px;
+    cursor: pointer;
+ }
+ .returns-container:hover{
+    border-color: white;
+    border-width: 1px;
+ }
+ .cart{
+    display: inline-block;
+ }
+ .cart-container{
+    display: inline-block;
+    margin-left: 5px;
+    border-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 0px;
+    cursor: pointer;
+ }
+ .cart-container:hover{
+    border-color: white;
+    border-width: 1px;
+ }
+ .para-cart{
+    display: inline-block;
+    color: white;
+ }
